@@ -47,7 +47,9 @@ mindset:
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=santoso-py&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoso-py&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoso-py&hide_border=true&bg_color=00000000&color=64748b&line=2563eb&point=0f172a&area=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=santoso-py&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+  <br/>
+  <img width="100%" src="https://ghchart.rshah.org/2563eb/santoso-py" alt="contribution chart" />
 </div>
 
 ### 🧪 Open-source toys
